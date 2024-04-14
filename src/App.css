@@ -1,0 +1,8 @@
+.swiper-slide-active {
+  width: 50vw !important;
+  margin-right: 10px !important;
+}
+
+.swiper-slide-prev, .swiper-slide-next{
+  width: 25vw !important;
+}
